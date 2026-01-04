@@ -63,6 +63,6 @@ data augmentations.
 
 ## Reference
 
-![imagenet-arrayrecord-scripts](https://codeberg.org/amas127/mlscripts/src/commit/40147809eccea716100c924e71ac4d0517ba0844/imagenet-1k-resize-flatbuffers-arrayrecord)
+[imagenet-arrayrecord-scripts](https://codeberg.org/amas127/mlscripts/src/commit/40147809eccea716100c924e71ac4d0517ba0844/imagenet-1k-resize-flatbuffers-arrayrecord)
 
-![torch-resnet-reproduction](https://torch.ch/blog/2016/02/04/resnets.html)
+[torch-resnet-reproduction](https://torch.ch/blog/2016/02/04/resnets.html)
